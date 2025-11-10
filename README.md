@@ -52,7 +52,13 @@
     <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
 </p>
-<p align="center">⚡ Deploy your bot on <b>Heroku</b> easily.</p>
+
+<p align="center">
+  <a href="https://dashboard.render.com/web/new?template=https://github.com/Adeel-Xtech/ADEEL-MD">
+    <img src="https://img.shields.io/badge/Deploy-Render-000000?style=for-the-badge&logo=render&logoColor=white&color=00ffaa" />
+  </a>
+</p>
+<p align="center">🩷 𝐃𝐄𝐏𝐋𝐎𝐘𝐄 ʜᴇʀᴏᴋᴜ ᴀɴᴅ ʀᴀɴᴅᴇʀ 🐍🍷</p>
 
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
