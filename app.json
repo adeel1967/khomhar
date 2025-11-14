@@ -1,7 +1,7 @@
 {
   "name": "ADEEL-MD",
   "description": "Javascript WhatsApp bot made by ADEEL-MD",
-  "logo": "https://cdn-bandaheali.vercel.app/file/ADEEL-MD31424.jpg",
+  "logo": "https://files.catbox.moe/x2qij1.jpg",
   "keywords": ["ADEEL-MD"],
   "success_url": "/",
 
@@ -124,7 +124,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://cdn-bandaheali.vercel.app/file/ADEEL-MD31424.jpg"
+      "value": "https://files.catbox.moe/x2qij1.jpg"
     },
     
     "DESCRIPTION": {
