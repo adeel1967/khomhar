@@ -3,7 +3,7 @@
   "version": "4.5.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "pm2-runtime index.js --name ADEEL-MD"
   },
   "engines": {
     "node": "18.x"
@@ -26,7 +26,6 @@
     "file-type": "^16.5.3",
     "form-data": "^4.0.0",
     "google-tts-api": "^2.0.2",
-    "path": "^0.12.7",
     "node-fetch": "^2.6.7",
     "btch-downloader": "^2.2.9",
     "megajs": "^1.1.0",
